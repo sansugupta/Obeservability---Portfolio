@@ -162,6 +162,7 @@ I'm always excited to discuss:
 - 🤖 **Automation and self-healing systems**
 
 **Drop a comment below** or **send me a DM** – let's geek out over monitoring strategies and share experiences building world-class observability platforms!
+![image](https://github.com/user-attachments/assets/daf7b97a-a3f5-46d1-b05f-f9ebfc958170)
 
 ---
 
