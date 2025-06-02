@@ -742,8 +742,6 @@ Cloud & Infrastructure   ██████████████████�
 ![Screenshot 2025-06-02 142222](https://github.com/user-attachments/assets/39b1cbe6-2911-477f-889c-39508baa7c08)
 ![Screenshot 2025-06-02 142248](https://github.com/user-attachments/assets/cfb97b98-4717-4a9e-a0eb-3bab012e58a5)
 
-
-![image](https://github.com/user-attachments/assets/92245826-d524-4d07-aa66-5be26966d7c7)
 ![image](https://github.com/user-attachments/assets/138df778-d9aa-4e04-81d2-4de030f49b11)
 ![image](https://github.com/user-attachments/assets/6793d16a-895e-4d42-84ce-076057ea507d)
 ![image](https://github.com/user-attachments/assets/323daad9-085c-4d8e-a1e9-2ebb0824ca5b)
