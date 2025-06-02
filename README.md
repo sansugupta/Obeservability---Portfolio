@@ -1,4 +1,4 @@
-![Screenshot 2025-06-02 141757](https://github.com/user-attachments/assets/b8dab40c-e7ee-485c-99f2-30c234c914da)# 🌟 Advanced Observability Portfolio: Enterprise Kubernetes Monitoring Solutions
+# 🌟 Advanced Observability Portfolio: Enterprise Kubernetes Monitoring Solutions
 
 <div align="center">
 
