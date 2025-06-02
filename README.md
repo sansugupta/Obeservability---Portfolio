@@ -1,4 +1,4 @@
-# 🌟 Advanced Observability Portfolio: Enterprise Kubernetes Monitoring Solutions
+![Screenshot 2025-06-02 141757](https://github.com/user-attachments/assets/b8dab40c-e7ee-485c-99f2-30c234c914da)# 🌟 Advanced Observability Portfolio: Enterprise Kubernetes Monitoring Solutions
 
 <div align="center">
 
@@ -736,6 +736,18 @@ Cloud & Infrastructure   ██████████████████�
 - Observability fundamentals training
 - Advanced PromQL and Grafana workshops
 - SRE culture and practices development
+![Screenshot 2025-06-02 141757](https://github.com/user-attachments/assets/92ae27ca-55d5-44fe-856a-7b551a5817ef)
+![Screenshot 2025-06-02 141808](https://github.com/user-attachments/assets/543f8788-ae08-4316-992b-43b752b86755)
+![Screenshot 2025-06-02 142106](https://github.com/user-attachments/assets/19e3a9f0-3b61-417b-91dc-197e864d13e7)
+![Screenshot 2025-06-02 142222](https://github.com/user-attachments/assets/39b1cbe6-2911-477f-889c-39508baa7c08)
+![Screenshot 2025-06-02 142248](https://github.com/user-attachments/assets/cfb97b98-4717-4a9e-a0eb-3bab012e58a5)
+
+
+![image](https://github.com/user-attachments/assets/92245826-d524-4d07-aa66-5be26966d7c7)
+![image](https://github.com/user-attachments/assets/138df778-d9aa-4e04-81d2-4de030f49b11)
+![image](https://github.com/user-attachments/assets/6793d16a-895e-4d42-84ce-076057ea507d)
+![image](https://github.com/user-attachments/assets/323daad9-085c-4d8e-a1e9-2ebb0824ca5b)
+
 
 ### 📞 **Contact Information**
 
